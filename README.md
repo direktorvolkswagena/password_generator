@@ -59,24 +59,6 @@ The application uses the `Fusion` style and a custom dark palette defined in `pa
 
 ---
 
-## 📷 Preview
-
-*(Add a screenshot here if desired)*
-
----
-
 ## 📄 License
 
 This project is free to use, modify, and distribute. No specific license is attached by default—feel free to add one if you wish.
-
----
-
-## ✨ Future Ideas
-
-- Add light/dark theme switch
-- Save user settings between runs
-- Auto-generate on app start or checkbox toggle
-
----
-
-Created with ❤️ using PyQt6.
